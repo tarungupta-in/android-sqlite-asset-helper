@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/vksewaliya/android-sqlite-asset-helper.svg)](https://jitpack.io/#vksewaliya/android-sqlite-asset-helper)
+
 Android SQLiteAssetHelper
 =========================
 
@@ -18,7 +20,7 @@ If you are using the Gradle build system, simply add the following dependency in
 
 ```groovy
 dependencies {
-    compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
+    compile 'com.github.vksewaliya:android-sqlite-asset-helper:+'
 }
 ```
 
